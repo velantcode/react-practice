@@ -9,6 +9,8 @@
 /coverage
 
 # production
+/.idea/*
+vcs.xml
 /build
 
 # misc
